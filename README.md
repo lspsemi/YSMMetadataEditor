@@ -4,6 +4,10 @@
 
 本目录是可独立构建的源码发布版：YSMParser C++ 源码位于 `native/YSMParser`，加密所需 OpenYSM Java 源码位于 `third_party/openysm-src`。构建不依赖 D 盘原有项目、符号链接或预先编译的 `bin`。详见 [SOURCE_BUILD.md](SOURCE_BUILD.md) 和 [THIRD_PARTY.md](THIRD_PARTY.md)。
 
+## 许可证
+
+本工具原创的 Python 与 Java 代码采用 **GNU GPL v3.0（仅此版本）**，全文见 [LICENSE](LICENSE)。仓库中的 YSMParser、OpenYSM 及其他第三方组件保留各自的许可证，清单和许可文件见 [THIRD_PARTY.md](THIRD_PARTY.md)。
+
 ## 运行
 
 在 Windows 上双击 `启动编辑器.bat` 即可启动 GUI。也可以在命令行运行：

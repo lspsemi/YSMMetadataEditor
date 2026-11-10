@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Encrypt decrypted YSM model folders using the OpenYSM serializer."""
 
 from __future__ import annotations

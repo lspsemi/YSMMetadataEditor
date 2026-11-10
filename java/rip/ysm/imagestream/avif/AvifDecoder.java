@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0-only
 package rip.ysm.imagestream.avif;
 
 import javax.imageio.ImageIO;

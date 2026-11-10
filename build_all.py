@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Rebuild every native/Java component and the Windows GUI bundle."""
 
 from __future__ import annotations

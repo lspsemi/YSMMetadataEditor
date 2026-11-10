@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """A small editor for decrypted YSM model metadata."""
 
 from __future__ import annotations

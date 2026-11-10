@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-3.0-only
 import com.elfmcys.yesstevemodel.resource.YSMBinarySerializer;
 import com.elfmcys.yesstevemodel.resource.YSMFolderDeserializer;
 import com.elfmcys.yesstevemodel.resource.pojo.RawYsmModel;

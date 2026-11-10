@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Build the OpenYSM folder encryptor from the vendored source snapshot."""
 
 from __future__ import annotations

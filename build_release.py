@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Build a Windows GUI bundle with a console batch-encryption helper."""
 
 from __future__ import annotations

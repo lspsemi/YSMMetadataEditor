@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Paths shared by source runs and packaged Windows executables."""
 
 from __future__ import annotations

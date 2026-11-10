@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Build the vendored YSMParser and copy the executable into bin/."""
 
 from __future__ import annotations

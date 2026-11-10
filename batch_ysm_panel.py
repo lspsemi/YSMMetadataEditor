@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-only
 """Batch YSM conversion panel backed by the local parser and OpenYSM helper."""
 
 from __future__ import annotations
